@@ -23,6 +23,11 @@
 |                   | **8. 뱃지 (업적 시스템)**                        | - 학습 여정의 의미있는 순간을 기념하는 뱃지 시스템.<br>- 입문, 노력, 꾸준함, 실력, 탐험, 특별 카테고리로 구성.<br>- 총 17개의 뱃지 제공 (상세 기획 참조).                                                                                                                                                                           |
 | **E. UX/UI 보조** | **9. 로딩/대기 시간 처리**                       | - AI 피드백 대기 시 로딩 애니메이션 (예: "AI 튜터가 OOO님의 풀이를 꼼꼼히 읽고 있어요...") 또는 간단한 수학 미니게임 제공.                                                                                                                                                                                                       |
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/98ef0cda-94cd-4194-a5f0-c8c1af4bfcd9" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b13afdf6-c3a7-45c9-8035-7227b712b47c" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2b66f163-dcd4-42a4-bc14-3080602dee63" />
+
+
 ## 4. MVP에서 제외할 기능
 
 - 단원별/유형별 티어 (PSR의 단원별 분석으로 대체)
